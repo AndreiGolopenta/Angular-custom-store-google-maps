@@ -1,0 +1,12 @@
+<nav>
+  <div
+    *ngFor="let item of navigation"
+    [routerLink]="item.link"
+    routerLinkActive="active"
+    [routerLinkActiveOptions]="{ exact: item.exact }"
+    class="nav"
+  >
+    <i class="material-icons">{{ item.icon }}</i>
+    <span>{{ item.name }}</span>
+  </div>
+</nav>

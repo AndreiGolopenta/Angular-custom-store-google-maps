@@ -1,0 +1,12 @@
+<agm-map 
+  [latitude]="lat" 
+  [longitude]="lng" 
+  [zoom]="zoom"
+  [style.width]="width">
+  <app-map-marker
+    *ngFor="let marker of hotels$ | async"
+    [hotel]="marker"
+    [selectedHotel]="selectedHotel$ | async"
+    (selectFromMap)="handleClick($event)">
+  </app-map-marker>
+</agm-map>

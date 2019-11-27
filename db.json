@@ -1,0 +1,961 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "favourites": false,
+      "name": "Ramada Plaza Craiova",
+      "image": {
+        "link": "https://q-cf.bstatic.com/images/hotel/max1280x900/125/125150305.jpg",
+        "top": "-10px"
+      },
+      "stars": 4,
+      "latitude": 44.321476,
+      "longitude": 23.7960946,
+      "reviewsNumber": 1213,
+      "ratingNumber": 4.6,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Calea București 1, Craiova 200678"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8QCW+HF Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "wyndhamhotels.com"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0351 100 200"
+        }
+      ],
+      "detail": "Set 7 km from Craiova International Airport, this informal hotel off a bustling intersection is a 4-minute walk from the Craiova Art Museum and 3 km from Nicolae Romanescu Park. Relaxed, streamlined rooms feature free Wi-Fi, flat-screen TVs, minifridges and coffeemakers; most have wet bars. Suites add separate living areas. Room service is available. Kids stay at no charge with parents.A breakfast buffet and parking are complimentary. There's also a restaurant/bar. Other amenities consist of a spa area, a gym, and an indoor pool with colorful lights. Event space includes 5 meeting rooms."
+    },
+    {
+      "id": 2,
+      "favourites": false,
+      "name": "Hotel Golden House",
+      "image": {
+        "link": "https://pix10.agoda.net/hotelImages/651/6519943/6519943_19012221340071591140.jpg?s=1024x768",
+        "top": "-26px"
+      },
+      "stars": 4,
+      "latitude": 44.3211915,
+      "longitude": 23.7874699,
+      "reviewsNumber": 227,
+      "ratingNumber": 4.5,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Strada Brestei 18, Craiova 200420"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8QCQ+F2 Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "goldenhouse.ro"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0251 406 270"
+        }
+      ],
+      "detail": "A 7-minute walk from Craiova Botanical Garden, this 19th-century, refined hotel is a 10-minute walk from the Baroque Jean Mihail Palace Art Museum and 2.9 km from the picturesque Nicolae Romanescu Park. Vibrant, relaxed rooms offer free Wi-Fi, TVs, minibars and sitting areas. Suites with old-world or modern decor have living rooms. Amenities include a polished restaurant with a garden terrace, plus a plush bar."
+    },
+    {
+      "id": 3,
+      "favourites": false,
+      "name": "Hotel Rexton",
+      "image": {
+        "link": "https://images.trvl-media.com/hotels/6000000/5910000/5900900/5900860/2c9128e3_z.jpg",
+        "top": "-7px"
+      },
+      "stars": 4,
+      "latitude": 44.3239412,
+      "longitude": 23.8043307,
+      "reviewsNumber": 255,
+      "ratingNumber": 4.3,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Bulevardul Carol I 49, Craiova 200692"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8RF3+HR Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "hotelrexton.ro"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0351 881 052"
+        }
+      ],
+      "detail": "A 15-minute walk from the Muzeul de arta Craiova, this straightforward glass-fronted hotel with views of downtown Craiova is 7 km from Craiova International Airport. Modest rooms and suites come with free Wi-Fi, cable TV and minibars. Room service is available. Some quarters offer city views.Breakfast, an airport shuttle and parking are complimentary. Other amenities include an informal international restaurant, a fitness center, a hot tub and a sauna."
+    },
+    {
+      "id": 4,
+      "favourites": false,
+      "name": "Hotel Emma West",
+      "image": {
+        "link": "https://t-ec.bstatic.com/images/hotel/max1024x768/298/29813241.jpg",
+        "top": "-38px"
+      },
+      "stars": 4,
+      "latitude": 44.3280715,
+      "longitude": 23.7768204,
+      "reviewsNumber": 296,
+      "ratingNumber": 4.1,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Calea Severinului 3B, Craiova 200188"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8QHG+7Q Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "hotel-emmawest.ro"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0251 480 150"
+        }
+      ],
+      "detail": "Overlooking the E79 highway, this modern hotel with a sleek facade is a km from the Craiova Botanical Garden and 2 km from the Craiova Triaj train station. Classic rooms with subdued tones and warm wood decor feature free Wi-Fi, flat-screen TVs and minibars. Suites with living rooms include whirlpool tubs. Room service is available. Parking is free, as is a breakfast buffet, which is served in a formal restaurant. Other amenities include a lobby bar and laundry service."
+    },
+    {
+      "id": 5,
+      "favourites": false,
+      "name": "Hotel Emma Est",
+      "image": {
+        "link": "https://media-cdn.tripadvisor.com/media/photo-m/1280/13/96/b6/73/the-hotel.jpg",
+        "top": "1px"
+      },
+      "stars": 3,
+      "latitude": 44.3137303,
+      "longitude": 23.8314061,
+      "reviewsNumber": 238,
+      "ratingNumber": 4,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Calea București 82A, Craiova 200440"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8R7J+FH Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "hotel-emma.ro"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0251 406 288"
+        }
+      ],
+      "detail": "This modern hotel is 4 km from the Craiova Botanical Garden, 5 km from Nicolae Romanescu Park and 6 km from the Cornițoiu. The subdued rooms feature flat-screen TVs, minibars and free Wi-Fi. The suites add living areas. Room service is available. Breakfast and parking are complimentary. Other amenities include a restaurant. There are also 2 meeting rooms."
+    },
+    {
+      "id": 6,
+      "favourites": false,
+      "name": "Hotel Bavaria",
+      "image": {
+        "link": "https://q-cf.bstatic.com/images/hotel/max1280x900/173/17320901.jpg",
+        "top": "-8px"
+      },
+      "stars": 4,
+      "latitude": 44.3115952,
+      "longitude": 23.8027844,
+      "reviewsNumber": 216,
+      "ratingNumber": 4.2,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Strada Caracal 3, Craiova 200347"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8R63+J4 Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "hotel-bavaria.ro"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0251 414 449"
+        }
+      ],
+      "detail": "In a modest redbrick building, this unassuming hotel is 1 km from The Art Museum and 2 km from the Craiova Botanical Garden. The elegant rooms feature free Wi-Fi, flat-screen TVs, minibars and sitting areas. Upgraded rooms add living areas, while suites add living rooms. Room service is available. Amenities include a refined restaurant and a lobby lounge."
+    },
+    {
+      "id": 7,
+      "favourites": false,
+      "name": "Hotel Splendid 1900",
+      "image": {
+        "link": "https://r-cf.bstatic.com/images/hotel/max1280x900/746/74641496.jpg",
+        "top": "-5px"
+      },
+      "stars": 4,
+      "latitude": 44.3183113,
+      "longitude": 23.7991385,
+      "reviewsNumber": 116,
+      "ratingNumber": 4.6,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Strada Alexandru Ioan Cuza 4C, Craiova 200734"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8Q9X+8M Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "splendid1900.ro"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0737 023 921"
+        }
+      ],
+      "detail": "Free Wi-Fi, Free breakfast, Parking, Air-conditioned, Laundry service, Room service, ,Kid-friendly, Restaurant, Spa, Fitness center, Bar, Smoke-free"
+    },
+    {
+      "id": 8,
+      "favourites": false,
+      "name": "Europeca",
+      "image": {
+        "link": "https://q-cf.bstatic.com/images/hotel/max1280x900/183/183204687.jpg",
+        "top": "-20px"
+      },
+      "stars": 4,
+      "latitude": 44.3253378,
+      "longitude": 23.8035271,
+      "reviewsNumber": 518,
+      "ratingNumber": 4.2,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Strada Pietăţii 9-11-13, Craiova 200127"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8RG3+4C Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "hoteleuropeca.ro"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0351 431 083"
+        }
+      ],
+      "detail": "This modern hotel is a km from the Art Museum and 4 km from Nicolae Romanescu Park. The subdued rooms feature flat-screen TVs, complimentary Wi-Fi and minibars, plus city views. Upgrades add lounges. Children age 6 and under stay free with an adult. Cribs are available on request. Breakfast and parking are free. There's a restaurant, a bar with a lounge, and a seated terrace."
+    },
+    {
+      "id": 9,
+      "favourites": false,
+      "name": "Hotel Meliss",
+      "image": {
+        "link": "https://q-cf.bstatic.com/images/hotel/max1280x900/511/51156207.jpg",
+        "top": "-6px"
+      },
+      "stars": 4,
+      "latitude": 44.3247794,
+      "longitude": 23.8068841,
+      "reviewsNumber": 292,
+      "ratingNumber": 4.4,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Bulevardul Carol I 104, Craiova"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8RF4+WP Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "hotelmeliss.ro"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0351 804 438"
+        }
+      ],
+      "detail": "An 11-minute walk from the Craiova train station, this upscale hotel with a streamlined stone and glass exterior is 3 km from Nicolae Romanescu Park. Unpretentious rooms, casually decorated with warm wood and subdued tones, feature free Wi-Fi and flat-screen TVs. Sophisticated suites add living rooms with plush furniture, and upgraded suites include Jacuzzi tubs. A breakfast buffet is served in a formal restaurant with opulent decor. A romantic spa area with city views features a hot tub and a sauna. Other amenities include an exercise room and free parking."
+    },
+    {
+      "id": 10,
+      "favourites": false,
+      "name": "Hotel Helin",
+      "image": {
+        "link": "https://blog.ayandesign.ro/wp-content/uploads/2018/05/hotel-craiova.jpg",
+        "top": "0"
+      },
+      "stars": 4,
+      "latitude": 44.3131677,
+      "longitude": 23.8360245,
+      "reviewsNumber": 236,
+      "ratingNumber": 3.9,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Calea București 88, Craiova 200436"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8R7P+7C Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "helinstrading.com"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0727 606 060"
+        }
+      ],
+      "detail": "Wi-Fi, Parking, Air-conditioned, Laundry service, Business center, Room service, Kid-friendly, Restaurant, Bar"
+    },
+    {
+      "id": 11,
+      "favourites": false,
+      "name": "Casa cu Tei",
+      "image": {
+        "link": "https://q-cf.bstatic.com/images/hotel/max1280x900/280/28024145.jpg",
+        "top": "-10px"
+      },
+      "stars": 4,
+      "latitude": 44.3252881,
+      "longitude": 23.7926904,
+      "reviewsNumber": 225,
+      "ratingNumber": 3.8,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Strada Amaradia 4, Craiova 200134"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8QGV+44 Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "https://www.casacutei.com"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0372 981 433"
+        }
+      ],
+      "detail": "A 4-minute walk from a bus stop, this genteel hotel is a 6-minute walk from Grădina Botanică din Craiova botanical garden and an 11-minute walk from the Muzeul de arta Craiova museum. Relaxed rooms with hardwood floors and period furniture feature Wi-Fi and flat-screen TVs. Complimentary breakfast and parking are available. An elegant art nouveau style restaurant includes Mediterranean specialties and regular live music."
+    },
+    {
+      "id": 12,
+      "favourites": false,
+      "name": "La Rocca Boutique Hotel",
+      "image": {
+        "link": "https://q-cf.bstatic.com/images/hotel/max1280x900/726/72678949.jpg",
+        "top": "-2px"
+      },
+      "stars": 3,
+      "latitude": 44.3375514,
+      "longitude": 23.7642846,
+      "reviewsNumber": 281,
+      "ratingNumber": 4.5,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Strada Pelendava 39A, Craiova 200204"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8QQ7+2Q Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "hotellarocca.ro"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0351 413 570"
+        }
+      ],
+      "detail": "Wi-Fi, Parking, Outdoor pool, Air-conditioned, Laundry service, Kid-friendly, Restaurant, Bar"
+    },
+    {
+      "id": 13,
+      "favourites": false,
+      "name": "Hotel Oltenia",
+      "image": {
+        "link": "https://r-cf.bstatic.com/images/hotel/max1280x900/371/37133857.jpg",
+        "top": "-10px"
+      },
+      "stars": 4,
+      "latitude": 44.298946,
+      "longitude": 23.8305023,
+      "reviewsNumber": 311,
+      "ratingNumber": 4.5,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Strada Caracal 176, Craiova 200347"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "7RXJ+H6 Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "olteniahotel.ro"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0351 411 411"
+        }
+      ],
+      "detail": "This modern hotel is 2 km from Jiu train station and 3 km from trails at Nicolae Romanescu Park. It's also 4 km from Muzeul Olteniei, which features art and archaeological exhibits. Featuring mosaic bathrooms, the bright, cozy rooms have free Wi-Fi and swiveling flat-screen TVs. Upgraded rooms add balconies and sitting areas. Parking is free. The upscale restaurant features a contemporary event hall and a formal ballroom."
+    },
+    {
+      "id": 14,
+      "favourites": false,
+      "name": "Plus Hotel",
+      "image": {
+        "link": "https://r-cf.bstatic.com/images/hotel/max1280x900/823/82310846.jpg",
+        "top": "-2px"
+      },
+      "stars": 3,
+      "latitude": 44.2944743,
+      "longitude": 23.8414442,
+      "reviewsNumber": 87,
+      "ratingNumber": 4,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Strada Henry Ford 20, 207365"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "7RVR+QH Malu Mare"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "plushotel.ro"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0251 470 446"
+        }
+      ],
+      "detail": "Wi-Fi, Free parking, Indoor and outdoor pool, Air-conditioned,  Laundry service, Restaurant, Fitness center, Bar"
+    },
+    {
+      "id": 15,
+      "favourites": false,
+      "name": "Hotel Restaurant Royal Craiova",
+      "image": {
+        "link": "https://www.casino-magazine.ro/wp-content/uploads/2014/01/11-1.jpg",
+        "top": "0"
+      },
+      "stars": 3,
+      "latitude": 44.3173438,
+      "longitude": 23.8053785,
+      "reviewsNumber": 324,
+      "ratingNumber": 4.4,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Strada România Muncitoare 88, Craiova 200396"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8R84+W5 Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": " - "
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0771 650 062"
+        }
+      ],
+      "detail": "In a 19th-century building, this unassuming hotel is a 14-minute walk from the Muzeul de arta Craiova and 2 km from Craiova train station. Modest, traditionally decorated rooms come with Wi-Fi access, flat-screen TVs and minibars. Suites add whirlpool tubs, and 1 has a balcony. Kids age 5 and under stay at no extra cost with an adult. A complimentary breakfast buffet is served in a casual restaurant."
+    },
+    {
+      "id": 16,
+      "favourites": false,
+      "name": "Hotel Boutique 5 Continents",
+      "image": {
+        "link": "https://q-cf.bstatic.com/images/hotel/max1024x768/131/131082817.jpg",
+        "top": "-6px"
+      },
+      "stars": 4,
+      "latitude": 44.3151415,
+      "longitude": 23.7977773,
+      "reviewsNumber": 113,
+      "ratingNumber": 4.8,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Strada Mitropolit Firmilian 1, Craiova 200381"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8Q8X+34 Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": " - "
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0771 118 547"
+        }
+      ],
+      "detail": "Laundry service, Kid-friendly, Restaurant, Fitness center, Bar "
+    },
+    {
+      "id": 17,
+      "favourites": false,
+      "name": "Plaza",
+      "image": {
+        "link": "https://r-cf.bstatic.com/images/hotel/max1280x900/116/11620792.jpg",
+        "top": "-5px"
+      },
+      "stars": 4,
+      "latitude": 44.3145093,
+      "longitude": 23.8014089,
+      "reviewsNumber": 165,
+      "ratingNumber": 3.8,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Strada Arieș 16, Craiova 200384"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8R72+QH Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "hotelplaza.ro"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0251 430 410"
+        }
+      ],
+      "detail": "This informal hotel is 14 minutes' walk from the Ethnographic Museum and the Metropolitan Cathedral at Sfântul Dumitru Park, and 1.9 km from Craiova Botanical Garden. The snug, upscale rooms include free Wi-Fi, flat-screen TVs and minibars. Upgraded rooms add balconies and tea and coffeemaking equipment, and suites have separate living rooms. Breakfast and parking are complimentary, and the hotel offers 2 dining and event rooms (advanced notice may be required)."
+    },
+    {
+      "id": 18,
+      "favourites": false,
+      "name": "Relax",
+      "image": {
+        "link": "//lh4.googleusercontent.com/proxy/gu22R6UeRHRQlPj5pUzWG0-6CgOdSiPU8Ck8hvBNqtNdTzcM0M5x7aa7Bt9DWT1oqVY8-fRJ7FSG9GwM3qKOOrDWbhWCHHVZ8HywmEYosRq4tqZm1mkZ3j9uxxn4T9bxn3b2G2W4P1oeJ3eO63Ah-9g0Hq7ZO50=w437-h240-k-no",
+        "top": "0"
+      },
+      "stars": 3,
+      "latitude": 44.3472352,
+      "longitude": 23.7582838,
+      "reviewsNumber": 106,
+      "ratingNumber": 4.7,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Calea Severinului 48, Craiova 200610"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8QW5+V8 Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "hotel-relax.ro"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0351 409 744"
+        }
+      ],
+      "detail": "Wi-Fi, Parking, Air-conditioned, Laundry service, Restaurant, Bar"
+    },
+    {
+      "id": 19,
+      "favourites": false,
+      "name": "Hotel Articus",
+      "image": {
+        "link": "//lh3.googleusercontent.com/proxy/bUeoZWZd2ueZf2ygeRp4nhtbFfVIwEoLu_xh8lSYDKfxnRA-V1yuJry4ZgOmv5v3e_IYNJmf0qakHHE1sb7QBw4ZR1A75gFmX4aZoqeec8gFa5eEE2gXzqmlrKCWMe06ZncmLpAu10dhb-iU4coWn6WxCXYv4g=w408-h272-k-no",
+        "top": "-20px"
+      },
+      "stars": 4,
+      "latitude": 44.3307009,
+      "longitude": 23.7734626,
+      "reviewsNumber": 202,
+      "ratingNumber": 4.1,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Calea Severinului 39, Craiova 200233"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8QJF+79 Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "hotelarticus.ro"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0761 999 948"
+        }
+      ],
+      "detail": "Wi-Fi, Parking, Air-conditioned, Laundry service, Pet-friendly, Room service, Kid-friendly, Restaurant, Fitness center, Bar"
+    },
+    {
+      "id": 20,
+      "favourites": false,
+      "name": "Hostel Sport",
+      "image": {
+        "link": "//lh5.googleusercontent.com/proxy/wAn9GMa1zTuENyRXADv8dVroARxtNYTEF58foHoPPWcd5OBkGAR1_LmFez1sMy1-AOiWkQb1829dhKqmbA2EybJyJd8NaU134qEu7ZUgnO164VhtO-GE6n3eCVYlqAw414AwPRIcT6PDP6sLDoUYRDeM7zreVmE=w408-h306-k-no",
+        "top": "-35px"
+      },
+      "stars": 3,
+      "latitude": 44.3209767,
+      "longitude": 23.7889022,
+      "reviewsNumber": 36,
+      "ratingNumber": 3.9,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Strada Brestei 25, Craiova 200420"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8QCQ+9H Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "hotel-sport.ro"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0251 412 022"
+        }
+      ],
+      "detail": "Kid-friendly"
+    },
+    {
+      "id": 21,
+      "favourites": false,
+      "name": "Prestige Boutique Hotel Craiova",
+      "image": {
+        "link": "https://s-ec.bstatic.com/images/hotel/max1280x900/118/118251268.jpg",
+        "top": "0"
+      },
+      "stars": 4,
+      "latitude": 44.3154829,
+      "longitude": 23.7922202,
+      "reviewsNumber": 371,
+      "ratingNumber": 4.5,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Matei Basarab no 15, Craiova"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8Q8R+6V Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "hotelprestigecraiova.ro"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0799 204 398"
+        }
+      ],
+      "detail": "Set on a commercial road, this casual hotel with an ornate exterior is a 9-minute walk from dining options in the Old Town, and 2 km from the 9-hectare Nicolae Romanescu Park. It's 3 km from Craiova train station. Down-to-earth rooms include free Wi-Fi, flat-screen TVs and minifridges, plus tea and coffeemaking facilities, and en suite, shower-only bathrooms. Suites add living areas. Room service is available. Complimentary amenities include parking, and a breakfast buffet served in an informal restaurant. An area shuttle service is offered."
+    },
+    {
+      "id": 22,
+      "favourites": false,
+      "name": "Hotel Helin Central",
+      "image": {
+        "link": "https://t-ec.bstatic.com/images/hotel/max1280x900/149/149172804.jpg",
+        "top": "-15px"
+      },
+      "stars": 3,
+      "latitude": 44.318269,
+      "longitude": 23.8002427,
+      "reviewsNumber": 113,
+      "ratingNumber": 4.3,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Strada Alexandru Ioan Cuza 14, Craiova 200396"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8R92+83 Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "helincentral.ro"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0757 666 999"
+        }
+      ],
+      "detail": "On a lively street in the city center, this casual hotel is 8 minutes' walk from Craiova Muzeul de Artă and 18 minutes' walk from Craiova Grădina Botanică. A train station is 2 km away. Featuring flat-screen TVs, the relaxed rooms offer minifridges, and tea and coffeemaking facilities; some have city views. Upgraded rooms add sitting areas. There's a low-key restaurant/bar."
+    },
+    {
+      "id": 23,
+      "favourites": false,
+      "name": "Lido",
+      "image": {
+        "link": "https://static.travelminit.com/thumbs/accm-111842/hotel-lido-craiova-676x380.jpg",
+        "top": "0"
+      },
+      "stars": 3,
+      "latitude": 44.3238517,
+      "longitude": 23.7945306,
+      "reviewsNumber": 325,
+      "ratingNumber": 4,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Strada Constantin Brâncuși,Dolj 10, Craiova 200000"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8QFV+GR Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "lido-craiova.ro"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0251 590 332"
+        }
+      ],
+      "detail": "This unassuming hotel is a 7 minute-walk from the Craiova Botanical Garden and 3 km from Nicolae Romanescu Park. Subdued rooms feature flat-screen TVs, minibars and complimentary Wi-Fi. Upgraded quarters add living rooms. Room service is available. Breakfast and parking are free. Other amenities include a buffet restaurant and a cafe/bar, as well as an outdoor lounge bar and pool."
+    },
+    {
+      "id": 24,
+      "favourites": false,
+      "name": "The Arlington Boutique Hotel",
+      "image": {
+        "link": "https://lh5.googleusercontent.com/p/AF1QipNBtXfXzvrOZOqjH5XOdpVoLqJHCUydX1kz2Z5F=w408-h272-k-no",
+        "top": "-12px"
+      },
+      "stars": 4,
+      "latitude": 44.3276075,
+      "longitude": 23.7995364,
+      "reviewsNumber": 124,
+      "ratingNumber": 4.8,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Strada Brazda lui Novac 79E, Craiova 200690"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8QHX+2V Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "thearlington.ro"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0351 417 528"
+        }
+      ],
+      "detail": "Air-conditioned, Laundry service, Kid-friendly, Kid-friendly, Bar"
+    },
+    {
+      "id": 25,
+      "favourites": false,
+      "name": "Flormang",
+      "image": {
+        "link": "https://q-cf.bstatic.com/images/hotel/max1280x900/193/193026897.jpg",
+        "top": "-15px"
+      },
+      "stars": 3,
+      "latitude": 44.3307483,
+      "longitude": 23.7732711,
+      "reviewsNumber": 446,
+      "ratingNumber": 3.7,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Calea Severinului 7B, Craiova 200233"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8QJF+88 Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "flormang.ro"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0769 251 832"
+        }
+      ],
+      "detail": "A minute's walk from a tram stop, this relaxed, lakeside hotel is also 1.5 km from Craiova Botanical Garden and 2.3 km from Muzeul de Artă Craiova. The straightforward rooms come with free Wi-Fi, flat-screen TVs, sofas and tiled bathrooms. Upgraded rooms add whirlpool baths. Room service is available. There are 2 restaurants which double as event spaces. Other amenities include a conference hall and a casual terrace. Underground parking is complimentary."
+    },
+    {
+      "id": 26,
+      "favourites": false,
+      "name": "Helin Aeroport",
+      "image": {
+        "link": "https://lh5.googleusercontent.com/p/AF1QipNjFEl4Hv8q4mXlrmgP5ZW0-b4erkXck6nRbzQ=w408-h306-k-no",
+        "top": "-13px"
+      },
+      "stars": 3,
+      "latitude": 44.3267196,
+      "longitude": 23.863559,
+      "reviewsNumber": 326,
+      "ratingNumber": 4.1,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Strada Aviatorilor 10, Ghercești 207280"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8VG7+MF Ghercești"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "helin.ro"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0758 460 046"
+        }
+      ],
+      "detail": "Set 3 km from Craiova Airport, this polished hotel in a utilitarian building is also 7 km from the modern Teatrul Naţional „Marin Sorescu” and 8 km from the leafy surrounds of Grădina Botanică din Craiova. Subdued rooms offer free Wi-Fi, flat-screen TVs, minibars and coffeemakers. Upgraded rooms add sofas. Suites have whirlpool tubs and separate living areas. The hotel offers 2 refined restaurants marked by chandeliers. There's also a spa area with an indoor pool, a kids' pool and a hot tub, as well as a sauna and massages. Parking is complimentary."
+    },
+    {
+      "id": 27,
+      "favourites": false,
+      "name": "Andre's Hotel",
+      "image": {
+        "link": "https://r-cf.bstatic.com/images/hotel/max1280x900/370/37045670.jpg",
+        "top": "-3px"
+      },
+      "stars": 3,
+      "latitude": 44.3094231,
+      "longitude": 23.7923071,
+      "reviewsNumber": 192,
+      "ratingNumber": 3.4,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Bulevardul 1 Mai 23, Craiova 200355"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8Q5R+QW Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "hotelandres.ro"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0251 510 110"
+        }
+      ],
+      "detail": "Wi-Fi, Free parking, Air-conditioned, Kid-friendly, Restaurant, Bar"
+    },
+    {
+      "id": 28,
+      "favourites": false,
+      "name": "Hotel Sydney / Noblesse Events",
+      "image": {
+        "link": "//lh5.googleusercontent.com/proxy/KJ75JpX7kbTqjgNTsA2u0oQINjtnT_Jx5qRS4q9XyF7bPe409Sswi_2ET67uo_RxJETbtmJik0fmwnsfuQ9soN_3STt2XkRd0eLrJOGb19wPvadwfV80Am9jmVfegv9T-NFRo0tOn6AT9d4SaTA0rUFTbg7edw=w408-h271-k-no",
+        "top": "-16px"
+      },
+      "stars": 3,
+      "latitude": 44.3126599,
+      "longitude": 23.8523678,
+      "reviewsNumber": 381,
+      "ratingNumber": 3.7,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Calea București 52, Craiova 200515"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8V72+3X Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "sydneycraiova.ro"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0738 089 873"
+        }
+      ],
+      "detail": "Offering views of Craiova city, this streamlined hotel is a 5-minute walk from Plaiu Vulcănești train station and 5 km from Grădina Botanică din Craiova garden. Straightforward rooms come with complimentary Wi-Fi, flat-screen TVs and minibars. Breakfast and parking are complimentary. A chic restaurant with black-and-white styling features city views."
+    },
+    {
+      "id": 29,
+      "favourites": false,
+      "name": "Casa David",
+      "image": {
+        "link": "https://t-ec.bstatic.com/images/hotel/max1024x768/183/183683458.jpg",
+        "top": "0"
+      },
+      "stars": 4,
+      "latitude": 44.3224953,
+      "longitude": 23.7987709,
+      "reviewsNumber": 88,
+      "ratingNumber": 4.4,
+      "contact": [
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/place_gm_blue_24dp.png",
+          "info": "Strada Ștefan cel Mare 18A, Craiova 200129"
+        },
+        {
+          "icon": "assets/plusCodes.png",
+          "info": "8QFX+2G Craiova"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/public_gm_blue_24dp.png",
+          "info": "casadavid.ro"
+        },
+        {
+          "icon": "//www.gstatic.com/images/icons/material/system_gm/2x/phone_gm_blue_24dp.png",
+          "info": "0755 463 464"
+        }
+      ],
+      "detail": "An 8-minute walk from the Muzeul de arta Craiova, this humble hotel is a 13-minute walk from the Grădina Botanică din Craiova garden and 2 km from Craiova train station. The straightforward rooms come with Wi-Fi access, flat-screen TVs, minibars and desks. Some provide mirrored ceilings and/or balconies. Freebies include a breakfast buffet and parking."
+    }
+  ]
+}

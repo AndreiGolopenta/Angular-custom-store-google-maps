@@ -1,0 +1,13 @@
+<div class="overflow" [style.height]="height">
+  <ul>
+    <ng-container *ngFor="let hotel of hotels">
+      <app-list-entry 
+        [hotel]="hotel"
+        [selectedHotel]="selectedHotel">
+      </app-list-entry>
+    </ng-container>
+    <li *ngIf="hotels?.length === 0">
+      Empty list!
+    </li>
+  </ul>
+</div>

@@ -1,0 +1,7 @@
+<app-list-header>
+  <h2>Favourites Hotels</h2>
+</app-list-header>
+<app-list-complete
+  [hotels]="favourites$ | async"
+  [selectedHotel]="selectedHotel$ | async">
+</app-list-complete>

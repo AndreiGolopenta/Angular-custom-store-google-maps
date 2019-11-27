@@ -1,0 +1,10 @@
+<agm-marker 
+  [latitude]="hotel.latitude" 
+  [longitude]="hotel.longitude"
+  (markerClick)="handleClick()">
+  <agm-info-window 
+    [disableAutoPan]="true"
+    [isOpen]="toggleActiveClass()">
+    {{ hotel.name }}
+  </agm-info-window>
+</agm-marker>

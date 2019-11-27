@@ -1,0 +1,12 @@
+.overflow {
+  box-sizing: border-box;
+  overflow: auto;
+  ul {
+    list-style-type: none;
+    li {
+      color: #545e6f;
+      margin-top: 40px;
+      text-align: center;
+    }
+  }
+}

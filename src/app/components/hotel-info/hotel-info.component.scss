@@ -1,0 +1,107 @@
+@mixin line {
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 1px;
+  background: #545e6f6e;
+  box-shadow: 0 0 2px #545e6f;
+}
+
+.info {
+  position: relative;
+  color: #545e6f;
+  .image-container {
+    height: 282px;
+    width: 408px;
+    overflow: hidden;
+    img {
+      width: 408px;
+      height: 282px;
+    }
+  }
+  h3 {
+    position: absolute;
+    left: 25px;
+    top: 295px;
+  }
+  .hotel-stars {
+    position: absolute;
+    left: 25px;
+    top: 318px;
+  }
+  .favourite-btn {
+    position: absolute;
+    right: 20px;
+    top: 290px;
+  }
+  .rating {
+    position: absolute;
+    top: 336px;
+    left: 25px;
+    font-size: 15px;
+  }
+  .delimitation {
+    @include line;
+    top: 372px;
+  }
+  .overflow {
+    position: absolute;
+    top: 375px;
+    width: 406px;
+    overflow: auto;
+    ul {
+      list-style-type: none;
+      margin-top: 12px;
+      li {
+        position: relative;
+        height: 23px;
+        margin-bottom: 4px;
+        img {
+          position: absolute;
+          left: 20px;
+          width: 23px;
+          height: 23px;
+        }
+        span {
+          height: 23px;
+          line-height: 23px;
+          margin-left: 50px;
+          font-size: 14px;
+        }
+      }
+    }
+    .delimitation {
+      @include line;
+      top: 129px;
+    }
+    h4 {
+      position: absolute;
+      left: 25px;
+      top: 143px;
+    }
+    .text {
+      position: absolute;
+      top: 170px;
+      left: 25px;
+      width: 358px;
+      .go-back-btn {
+        display: block;
+        margin: 25px 0;
+      }
+    }
+  }
+}
+
+.nothing-selected {
+  color: #545e6f;
+  i {
+    position: relative;
+    top: 40px;
+    left: 20px;
+  }
+  span {
+    position: relative;
+    top: 34px;
+    left: 28px;
+  }
+}

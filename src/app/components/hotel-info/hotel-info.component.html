@@ -1,0 +1,47 @@
+<div class="info" *ngIf="hotel; else nothingSelected">
+  <div class="image-container">
+    <img [src]="hotel.image.link" [alt]="hotel.name" />
+  </div>
+  <h3>{{ hotel.name }}</h3>
+  <app-hotel-rating [stars]="hotel.stars" class="hotel-stars">
+  </app-hotel-rating>
+  <button
+    class="favourite-btn"
+    mat-icon-button
+    [color]="hotel.favourites ? 'accent' : ''"
+    (click)="toggleFavourite()"
+  >
+    <mat-icon>favorite</mat-icon>
+  </button>
+  <div class="rating">
+    Rating: {{ hotel.ratingNumber }} / ({{ hotel.reviewsNumber }})
+  </div>
+  <span class="delimitation"></span>
+  <div class="overflow" [style.height]="height">
+    <ul>
+      <li *ngFor="let info of hotel.contact">
+        <img [src]="info.icon" alt="icon" />
+        <span>{{ info.info }}</span>
+      </li>
+    </ul>
+    <span class="delimitation"></span>
+    <h4>Hotel details</h4>
+    <div class="text">
+      {{ hotel.detail }}
+      <button 
+        class="go-back-btn"
+        mat-stroked-button 
+        color="primary" 
+        (click)="goBack()">
+        Go Back
+      </button>
+    </div>
+  </div>
+</div>
+<ng-template #nothingSelected>
+  <div class="nothing-selected">
+    <i class="material-icons">info</i>
+    <span>Select a hotel from Map or <a routerLink="/">go to hotel's list</a>.</span>
+  </div>
+</ng-template>
+

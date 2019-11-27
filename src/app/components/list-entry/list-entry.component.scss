@@ -1,0 +1,48 @@
+.list-entry {
+  position: relative;
+  margin: 12px;
+  box-shadow: 0 0 4px #545e6f;
+  height: 80px;
+  cursor: pointer;
+  .image-container {
+    position: relative;
+    width: 160px;
+    height: 80px;
+    overflow: hidden;
+    img {
+      position: absolute;
+      width: 100%;
+      height: auto;
+    }
+  }
+  .hotel-name {
+    position: absolute;
+    top: 5px;
+    left: 170px;
+    color: #1a73e8;
+    font-size: 15px;
+    .rating {
+      position: relative;
+      top: 2px;
+    }
+  }
+  .review {
+    position: absolute;
+    bottom: 5px;
+    left: 170px;
+    font-size: 14px;
+    color: #545e6f;
+  }
+  .material-icons {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    color: #545e6f;
+    &.active {
+      color: #FF4081;
+    }
+  }
+  &.active {
+    background: #dddddd;
+  }
+}

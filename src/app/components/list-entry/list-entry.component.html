@@ -1,0 +1,29 @@
+<li
+  class="list-entry"
+  (click)="selectHotel(hotel, favorite, $event)"
+  [class.active]="toggleActiveClass()"
+>
+  <div class="image-container">
+    <img
+      [src]="hotel.image.link"
+      [alt]="hotel.name"
+      [ngStyle]="{ top: hotel.image.top }"
+    />
+  </div>
+  <div class="hotel-name">
+    <h4>
+      {{ hotel.name }}
+    </h4>
+    <app-hotel-rating class="rating" [stars]="hotel.stars"></app-hotel-rating>
+  </div>
+  <div class="review">
+    Rating: {{ hotel.ratingNumber }} / ({{ hotel.reviewsNumber }})
+  </div>
+  <i 
+    class="material-icons" 
+    (click)="addFavorite(hotel)" 
+    [class.active]="hotel.favourites"
+    #favorite>
+    favorite
+  </i>
+</li>

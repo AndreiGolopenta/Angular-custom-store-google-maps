@@ -1,0 +1,31 @@
+nav {
+  height: 100vh;
+  width: 70px;
+  .nav {
+    position: relative;
+    top: 15px;
+    height: 50px;
+    width: 100%;
+    color: #545e6f;
+    margin-bottom: 30px;
+    cursor: pointer;
+    outline: none;
+    i {
+      position: absolute;
+      top: 1px;
+      width: 100%;
+      text-align: center;
+      font-size: 30px;
+    }
+    span {
+      position: absolute;
+      top: 30px;
+      width: 100%;
+      text-align: center;
+      font-size: 14px;
+    }
+    &.active {
+      color: #1A73E8;
+    }
+  }
+}
