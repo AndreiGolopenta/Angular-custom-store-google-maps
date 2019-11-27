@@ -3,7 +3,6 @@ import { Observable } from 'rxjs';
 import { Hotel } from 'src/app/models/hotel.interface';
 import { Store } from 'src/app/store/store';
 import { MapService } from 'src/app/services/map.service';
-import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-map',
@@ -21,8 +20,7 @@ export class MapComponent implements OnInit {
 
   constructor(
     private store: Store,
-    private mapService: MapService,
-    private router: Router
+    private mapService: MapService
   ) { }
 
   ngOnInit() {
@@ -36,6 +34,15 @@ export class MapComponent implements OnInit {
 
   handleClick(hotel: Hotel) {
     this.mapService.update(hotel, 'selectHotel');
+  }
+
+  searchHotel(val: string) {
+    this.mapService.getHotels$.subscribe((hotels: Hotel[]) => {
+      const searchResult = hotels.filter((hotel: Hotel) => {
+        return hotel.name.toLocaleLowerCase().includes(val.toLocaleLowerCase());
+      });
+      this.store.set('hotels', searchResult);
+    });
   }
 
 }

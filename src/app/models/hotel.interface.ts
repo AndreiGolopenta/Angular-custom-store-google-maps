@@ -17,9 +17,4 @@ export interface Hotel {
   reviewsNumber: number;
   ratingNumber: number;
   contact: Contact[];
-  address: string;
-  plusCodes: string;
-  website: string;
-  phone: string;
-  detail: string;
 }

@@ -1,7 +1,6 @@
 import { Component, Input } from '@angular/core';
 import { Hotel } from 'src/app/models/hotel.interface';
 import { MapService } from 'src/app/services/map.service';
-import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-list-entry',
@@ -11,8 +10,7 @@ import { Router } from '@angular/router';
 export class ListEntryComponent {
 
   constructor(
-    private mapservice: MapService,
-    private router: Router
+    private mapservice: MapService
     ) {}
 
   @Input()

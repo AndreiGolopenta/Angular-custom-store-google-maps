@@ -1,0 +1,14 @@
+<div class="search-container">
+  <i class="material-icons">
+    search
+  </i>
+  <input
+    [@startAnimation]="focus ? 'final' : 'initial'"
+    (focus)="onFocus()"
+    (blur)="onBlur()"
+    (input)="handleSearch(searchInput.value)"
+    type="text"
+    placeholder="Search..."
+    #searchInput
+  />
+</div>

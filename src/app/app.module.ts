@@ -24,6 +24,7 @@ import { ListHeaderComponent } from './components/list-header/list-header.compon
 import { ListCompleteComponent } from './components/list-complete/list-complete.component';
 import { ListEntryComponent } from './components/list-entry/list-entry.component';
 import { HotelInfoComponent } from './components/hotel-info/hotel-info.component';
+import { SearchComponent } from './components/search/search.component';
 
 
 const routes: Routes = [
@@ -45,7 +46,8 @@ const routes: Routes = [
     ListHeaderComponent,
     ListCompleteComponent,
     ListEntryComponent,
-    HotelInfoComponent
+    HotelInfoComponent,
+    SearchComponent
   ],
   imports: [
     BrowserModule,

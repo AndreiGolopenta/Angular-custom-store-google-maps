@@ -2,7 +2,7 @@
   "hotels": [
     {
       "id": 1,
-      "favourites": false,
+      "favourites": true,
       "name": "Ramada Plaza Craiova",
       "image": {
         "link": "https://q-cf.bstatic.com/images/hotel/max1280x900/125/125150305.jpg",
@@ -35,7 +35,7 @@
     },
     {
       "id": 2,
-      "favourites": false,
+      "favourites": true,
       "name": "Hotel Golden House",
       "image": {
         "link": "https://pix10.agoda.net/hotelImages/651/6519943/6519943_19012221340071591140.jpg?s=1024x768",
@@ -599,7 +599,7 @@
       "favourites": false,
       "name": "Hotel Articus",
       "image": {
-        "link": "//lh3.googleusercontent.com/proxy/bUeoZWZd2ueZf2ygeRp4nhtbFfVIwEoLu_xh8lSYDKfxnRA-V1yuJry4ZgOmv5v3e_IYNJmf0qakHHE1sb7QBw4ZR1A75gFmX4aZoqeec8gFa5eEE2gXzqmlrKCWMe06ZncmLpAu10dhb-iU4coWn6WxCXYv4g=w408-h272-k-no",
+        "link": "https://r-cf.bstatic.com/images/hotel/max1280x900/786/78694860.jpg",
         "top": "-20px"
       },
       "stars": 4,
@@ -632,7 +632,7 @@
       "favourites": false,
       "name": "Hostel Sport",
       "image": {
-        "link": "//lh5.googleusercontent.com/proxy/wAn9GMa1zTuENyRXADv8dVroARxtNYTEF58foHoPPWcd5OBkGAR1_LmFez1sMy1-AOiWkQb1829dhKqmbA2EybJyJd8NaU134qEu7ZUgnO164VhtO-GE6n3eCVYlqAw414AwPRIcT6PDP6sLDoUYRDeM7zreVmE=w408-h306-k-no",
+        "link": "https://q-cf.bstatic.com/images/hotel/max1280x900/301/30155095.jpg",
         "top": "-35px"
       },
       "stars": 3,
@@ -764,7 +764,7 @@
       "favourites": false,
       "name": "The Arlington Boutique Hotel",
       "image": {
-        "link": "https://lh5.googleusercontent.com/p/AF1QipNBtXfXzvrOZOqjH5XOdpVoLqJHCUydX1kz2Z5F=w408-h272-k-no",
+        "link": "https://q-cf.bstatic.com/images/hotel/max1280x900/636/63644735.jpg",
         "top": "-12px"
       },
       "stars": 4,
@@ -830,7 +830,7 @@
       "favourites": false,
       "name": "Helin Aeroport",
       "image": {
-        "link": "https://lh5.googleusercontent.com/p/AF1QipNjFEl4Hv8q4mXlrmgP5ZW0-b4erkXck6nRbzQ=w408-h306-k-no",
+        "link": "https://r-cf.bstatic.com/images/hotel/max1280x900/181/181809121.jpg",
         "top": "-13px"
       },
       "stars": 3,
@@ -896,7 +896,7 @@
       "favourites": false,
       "name": "Hotel Sydney / Noblesse Events",
       "image": {
-        "link": "//lh5.googleusercontent.com/proxy/KJ75JpX7kbTqjgNTsA2u0oQINjtnT_Jx5qRS4q9XyF7bPe409Sswi_2ET67uo_RxJETbtmJik0fmwnsfuQ9soN_3STt2XkRd0eLrJOGb19wPvadwfV80Am9jmVfegv9T-NFRo0tOn6AT9d4SaTA0rUFTbg7edw=w408-h271-k-no",
+        "link": "https://r-cf.bstatic.com/images/hotel/max1280x900/134/1342321.jpg",
         "top": "-16px"
       },
       "stars": 3,
